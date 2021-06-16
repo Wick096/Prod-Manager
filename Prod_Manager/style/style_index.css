@@ -1,0 +1,43 @@
+
+
+			h1 {
+				font-size: 26px;
+    			color: #FFFFF0;
+    			margin-top: 40px;
+    			text-align: center;
+				font-family: Archivo;
+			}
+
+			h2{
+				font-size: 16px;
+				color:#FFFFF0;
+				margin-top: 40px;
+				text-align: center;
+				font-family: Archivo;
+			}
+
+			img{
+
+				width: 500px;
+				height: 500px;
+				position: relative;
+				left: 50%; top:50%;
+				transform: translate(-50%,-50%);
+				margin-top: 220px;				
+				
+				
+			}
+
+			.bg-light {
+			    background-color: 	#F0FFF0!important;
+			    border-bottom: 1px solid #191824;
+				color:#191824 ;
+				
+			}
+
+			li.nav-item {
+			    margin-right: 40px;
+				
+			}
+
+		
